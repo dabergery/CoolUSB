@@ -83,7 +83,7 @@
     CoolUSB Supporte la plupart des plateformes Windows récentes.<br>
     Consulter la liste complète des environnements compatibles. <br>
     <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
-    <img src="demo/w.png" alt="Logo de Windows">
+    <img src="demo/W.png" alt="Logo de Windows">
   </p>
 
 </body>
