@@ -17,7 +17,7 @@
   </p>
   <br>
   <br>
-    <img src="demo/W.png" alt="Logo de Windows">
+    <img src="demo/W.png" alt="Logo de Windows" width="150" height="150" >
   <h1>Téléchargement et installation</h1>
   <p>
     Téléchargement.
