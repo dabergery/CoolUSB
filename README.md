@@ -9,6 +9,7 @@
 <body>
 <h2>Message pour la communauté</h2>
   <p>
+    <img src="demo/logo.jpg" alt="logo de mon logiciel">
     Bonjour j'annonce la sortie de CoolUSB.
     cette idée est une preuve de concept.
     pourquoi CoolUSB ?<br>
@@ -65,7 +66,16 @@ CoolUSB est un menu de personnalisation dont le code fonctionne entièrement ave
   <h2>Quels systèmes d'exploitations sont compatibles avec CoolUSB ?</h2>
   <p>
     CoolUSB Supporte la plupart des plateformes Windows récentes.<br>
-    Consulter la liste complète des environnements compatibles <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a>.
+    Consulter la liste complète des environnements compatibles. <br>
+    <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
+    <img src="demo/w.png" alt="Logo de Windows">
+  </p>
+  <h2>caractéristiques</h2>
+  <p>
+    Executer l'application au meme emplacement que le dossier \wav.
+    Programme écrit entierement en Python.
+    Ne laisse aucun fichier résiduels sur votre ordinateur une fois l'application fermé, car aucun fichier n'est créé.
+    CoolUSB est un menu de personnalisation entièrement original aux paramètres par défauts de Windows.
   </p>
 </body>
   
