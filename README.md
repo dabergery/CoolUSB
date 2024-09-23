@@ -30,7 +30,7 @@
     <img src="demo/ouverture du programme CoolUSB.jpg" alt="image" >
   </p>
   <br>
-  <h1>caractéristiques</h1>
+  <h3>caractéristiques</h3>
   <p>
     Executer l'application au meme emplacement que le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
     Programme écrit entierement en Python.
@@ -39,13 +39,23 @@
   <br>
     <img src="demo/Changer l'affichage sur geometrie 3.jpg" alt="image">
   </p>
-  <h1>Personalisation avancées</h1>
+  <h3>Personalisation avancées</h3>
   <p>
     remplacer votre propre musique dans le dossier  <a href="https://github.com/dabergery/CoolUSB/">\wav</a> par un fichier audio deja existant.
     Nécessite un fichier au format "<a href="https://en.wikipedia.org/wiki/WAV">audio.wav</a>"
   </p>
-  
+  <br>
+  <br>
+  <br>
   <h1>Parties Questions</h1>                 <!-- Parties Questions -->
+  <br>
+  <h2>C'est quoi cette fenetre noire ??</h2>
+  <p>
+    <img src="demo/Quel est cette fenetre.jpg" alt="image" >
+    L'application CoolUSB s'execute de base dans un terminal c'est pour cela qu'il y a cette fenetre noire.
+    La fermer entrainera la fermture du programme, mais rien ne se perd car<br>
+    tout les fichiers audio de base sont dans le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
+  </p>
   <br>
   <h2>Qu'est ce que CoolUSB ?</h2>
   <p>
@@ -75,13 +85,7 @@
     <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
     <img src="demo/w.png" alt="Logo de Windows">
   </p>
-  <h2>C'est quoi cette fenetre noire ??</h2>
-  <p>
-    <img src="demo/Quel est cette fenetre.jpg" alt="image" >
-    L'application CoolUSB s'execute de base dans un terminal c'est pour cela qu'il y a cette fenetre noire.
-    La fermer entrainera la fermture du programme, mais rien ne se perd car<br>
-    tout les fichiers audio de base sont dans le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
-  </p>
+
 </body>
   
 </html>
