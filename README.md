@@ -9,7 +9,7 @@
 <body>
 <h2>Message pour la communauté</h2>
   <p>
-    <img src="demo/logo.jpg" alt="logo de mon logiciel">
+    <img src="demo/icon.ico" alt="logo de mon logiciel">
     Bonjour j'annonce la sortie de CoolUSB.
     cette idée est une preuve de concept.
     pourquoi CoolUSB ?<br>
@@ -20,19 +20,22 @@
   <br>
   <h1>Utilisation</h1>
   <p>
+    <img src="demo/w.png" alt="Logo de Windows">
     Pour lancer l'outil CoolUSB, vous devez extraire l'archive CoolUSB.
-Aller dans le dossier CoolUSB, et ensuite lancer l'application nommé.. a votre avis ?.. CoolUSB ! biensur !
-Grace a CoolUSB vous aurez l'impression d'avoir le meilleur PC du monde.
-cliquez sur le bouton bleu nommé Noel1 pour modifier les paramètre de USB sur la musique Noel1.
+    Aller dans le dossier CoolUSB, et ensuite lancer l'application nommé.. a votre avis ?.. CoolUSB ! biensur !
+    Grace a CoolUSB vous aurez l'impression d'avoir le meilleur PC du monde.
+    cliquez sur le bouton bleu nommé Noel1 pour modifier les paramètre de USB sur la musique Noel1.
   </p>
   <br>
   <h1>titre</h1>
   <p>
     Executer l'application au meme emplacement que le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
-Programme écrit entierement en Python.
-Ne laisse aucun fichier résiduels sur votre ordinateur une fois l'application fermé, car aucun fichier n'est créé.
-Consulter le code source <github-link>
-CoolUSB est un menu de personnalisation dont le code fonctionne entièrement avec les paramètres par défauts de Windows.
+    Programme écrit entierement en Python.
+    Ne laisse aucun fichier résiduels sur votre ordinateur une fois l'application fermé, car aucun fichier n'est créé.
+    Consulter le code source <github-link>
+    CoolUSB est un menu de personnalisation dont le code fonctionne entièrement avec les paramètres par défauts de Windows.
+  <br>
+    <img src="demo/Changer l'affichage sur geometrie 1.jpg" alt="image">
   </p>
   <h1>Personalisation avancées</h1>
   <p>
@@ -70,13 +73,7 @@ CoolUSB est un menu de personnalisation dont le code fonctionne entièrement ave
     <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
     <img src="demo/w.png" alt="Logo de Windows">
   </p>
-  <h2>caractéristiques</h2>
-  <p>
-    Executer l'application au meme emplacement que le dossier \wav.
-    Programme écrit entierement en Python.
-    Ne laisse aucun fichier résiduels sur votre ordinateur une fois l'application fermé, car aucun fichier n'est créé.
-    CoolUSB est un menu de personnalisation entièrement original aux paramètres par défauts de Windows.
-  </p>
+  
 </body>
   
 </html>
