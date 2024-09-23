@@ -4,12 +4,11 @@
   <meta charset="utf-8">
   <link href="demo/style.css" rel="stylesheet">
   <h1>Télécharger CoolUSB Gratuitement</h1>
-  <a href="https://github.com/dabergery/CoolUSB">Page du projet</a>
+  <a href="https://github.com/dabergery/CoolUSB"  >Page du projet</a>
 </head>
 <body>
 <h2>Message pour la communauté</h2>
   <p>
-    <img src="demo/icon.ico" alt="logo de mon logiciel">
     Bonjour j'annonce la sortie de CoolUSB.
     cette idée est une preuve de concept.
     pourquoi CoolUSB ?<br>
@@ -18,32 +17,45 @@
   </p>
   <br>
   <br>
-  <h1>Utilisation</h1>
-  <p>
     <img src="demo/w.png" alt="Logo de Windows">
+  <h1>Téléchargement et installation</h1>
+  <p>
+    Téléchargement.
+    <img src="demo/Downloadzip.jpg" alt="image" >
     Pour lancer l'outil CoolUSB, vous devez extraire l'archive CoolUSB.
-    Aller dans le dossier CoolUSB, et ensuite lancer l'application nommé.. a votre avis ?.. CoolUSB ! biensur !
+    <img src="demo/extractionZIP.jpg" alt="image" >
+    Confirmer l'execution de l'application.
+    <img src="demo/Popup de securité.jpg" alt="image" >
     Grace a CoolUSB vous aurez l'impression d'avoir le meilleur PC du monde.
-    cliquez sur le bouton bleu nommé Noel1 pour modifier les paramètre de USB sur la musique Noel1.
+    <img src="demo/ouverture du programme CoolUSB.jpg" alt="image" >
   </p>
   <br>
-  <h1>titre</h1>
+  <h3>caractéristiques</h3>
   <p>
     Executer l'application au meme emplacement que le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
     Programme écrit entierement en Python.
     Ne laisse aucun fichier résiduels sur votre ordinateur une fois l'application fermé, car aucun fichier n'est créé.
-    Consulter le code source <github-link>
     CoolUSB est un menu de personnalisation dont le code fonctionne entièrement avec les paramètres par défauts de Windows.
   <br>
-    <img src="demo/Changer l'affichage sur geometrie 1.jpg" alt="image">
+    <img src="demo/Changer l'affichage sur geometrie 3.jpg" alt="image">
   </p>
-  <h1>Personalisation avancées</h1>
+  <h3>Personalisation avancées</h3>
   <p>
-    remplacer votre propre musique dans le dossier  <a href="https://github.com/dabergery/CoolUSB/">\wav</a> par celle commé Noel1 par exemple.
+    remplacer votre propre musique dans le dossier  <a href="https://github.com/dabergery/CoolUSB/">\wav</a> par un fichier audio deja existant.
     Nécessite un fichier au format "<a href="https://en.wikipedia.org/wiki/WAV">audio.wav</a>"
   </p>
-  
+  <br>
+  <br>
+  <br>
   <h1>Parties Questions</h1>                 <!-- Parties Questions -->
+  <br>
+  <h2>C'est quoi cette fenetre noire ??</h2>
+  <p>
+    <img src="demo/Quel est cette fenetre.jpg" alt="image" >
+    L'application CoolUSB s'execute de base dans un terminal c'est pour cela qu'il y a cette fenetre noire.
+    La fermer entrainera la fermture du programme, mais rien ne se perd car<br>
+    tout les fichiers audio de base sont dans le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
+  </p>
   <br>
   <h2>Qu'est ce que CoolUSB ?</h2>
   <p>
@@ -73,7 +85,7 @@
     <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
     <img src="demo/w.png" alt="Logo de Windows">
   </p>
-  
+
 </body>
   
 </html>
