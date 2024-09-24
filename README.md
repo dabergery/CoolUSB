@@ -17,17 +17,15 @@
   </p>
   <br>
   <br>
-    <img src="demo/w.png" alt="Logo de Windows">
+    <img src="demo/W.png" alt="Logo de Windows" width="150" height="150" >
   <h1>Téléchargement et installation</h1>
   <p>
-    Téléchargement.
-    <img src="demo/Downloadzip.jpg" alt="image" >
-    Pour lancer l'outil CoolUSB, vous devez extraire l'archive CoolUSB.
-    <img src="demo/extractionZIP.jpg" alt="image" >
-    Confirmer l'execution de l'application.
-    <img src="demo/Popup de securité.jpg" alt="image" >
-    Grace a CoolUSB vous aurez l'impression d'avoir le meilleur PC du monde.
-    <img src="demo/ouverture du programme CoolUSB.jpg" alt="image" >
+    Téléchargement.<br>
+    <img src="demo/Downloadzip.jpg" alt="image" width="550" height="250" ><br>
+    Pour lancer l'outil CoolUSB, vous devez extraire l'archive CoolUSB.<br>
+    <img src="demo/extractionZIP.jpg" alt="image" width="550" height="250" ><br>
+    Confirmer l'execution de l'application.<br>
+    <img src="demo/Popup de securité.jpg" alt="image" width="350" height="250"  ><br>
   </p>
   <br>
   <h3>caractéristiques</h3>
@@ -83,7 +81,7 @@
     CoolUSB Supporte la plupart des plateformes Windows récentes.<br>
     Consulter la liste complète des environnements compatibles. <br>
     <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
-    <img src="demo/w.png" alt="Logo de Windows">
+    <img src="demo/W.png" alt="Logo de Windows">
   </p>
 
 </body>
