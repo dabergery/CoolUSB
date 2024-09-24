@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <link href="demo/style.css" rel="stylesheet">
+  <link href="https://github.com/dabergery/dabergery/blob/main/images/style.css" rel="stylesheet">
   <h1>Télécharger CoolUSB Gratuitement</h1>
   <a href="https://github.com/dabergery/CoolUSB"  >Page du projet</a>
 </head>
@@ -17,15 +17,15 @@
   </p>
   <br>
   <br>
-    <img src="demo/W.png" alt="Logo de Windows" width="150" height="150" >
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/W.png" alt="Logo de Windows" width="150" height="150" >
   <h1>Téléchargement et installation</h1>
   <p>
     Téléchargement.<br>
-    <img src="demo/Downloadzip.jpg" alt="image" width="550" height="250" ><br>
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/Downloadzip.jpg" alt="image" width="550" height="250" ><br>
     Pour lancer l'outil CoolUSB, vous devez extraire l'archive CoolUSB.<br>
-    <img src="demo/extractionZIP.jpg" alt="image" width="550" height="250" ><br>
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/extractionZIP.jpg" alt="image" width="550" height="250" ><br>
     Confirmer l'execution de l'application.<br>
-    <img src="demo/Popup de securité.jpg" alt="image" width="350" height="250"  ><br>
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/Popup de securité.jpg" alt="image" width="350" height="250"  ><br>
   </p>
   <br>
   <h3>caractéristiques</h3>
@@ -35,7 +35,7 @@
     Ne laisse aucun fichier résiduels sur votre ordinateur une fois l'application fermé, car aucun fichier n'est créé.
     CoolUSB est un menu de personnalisation dont le code fonctionne entièrement avec les paramètres par défauts de Windows.
   <br>
-    <img src="demo/Changer l'affichage sur geometrie 3.jpg" alt="image">
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/Changer l'affichage sur geometrie 3.jpg" alt="image">
   </p>
   <h3>Personalisation avancées</h3>
   <p>
@@ -49,7 +49,7 @@
   <br>
   <h2>C'est quoi cette fenetre noire ??</h2>
   <p>
-    <img src="demo/Quel est cette fenetre.jpg" alt="image" >
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/Quel est cette fenetre.jpg" alt="image" >
     L'application CoolUSB s'execute de base dans un terminal c'est pour cela qu'il y a cette fenetre noire.
     La fermer entrainera la fermture du programme, mais rien ne se perd car<br>
     tout les fichiers audio de base sont dans le dossier <a href="https://github.com/dabergery/CoolUSB/">\wav</a>.
@@ -81,7 +81,7 @@
     CoolUSB Supporte la plupart des plateformes Windows récentes.<br>
     Consulter la liste complète des environnements compatibles. <br>
     <a href="https://learn.microsoft.com/fr-fr/windows/compatibility/">compatiblilités avec CoolUSB.</a><br>
-    <img src="demo/W.png" alt="Logo de Windows">
+    <img src="https://github.com/dabergery/dabergery/blob/main/images/W.png" alt="Logo de Windows">
   </p>
 
 </body>
